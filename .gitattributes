@@ -1,0 +1,16 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Python sources
+*.py text eol=lf
+
+# GeoJSON & JSON data
+*.geojson text eol=lf
+*.json text eol=lf
+
+# Documentation & Configs
+*.md text eol=lf
+*.txt text eol=lf
+*.toml text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "hub_id": "HUB_01",
+        "hub_name": "Bưu cục Nghĩa Tân - Hoàng Quốc Việt",
+        "address": "Số 106 Hoàng Quốc Việt, Nghĩa Tân, Cầu Giấy",
+        "zone_id": "ZONE_BAC",
+        "capacity": 500
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7895,
+          21.0465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hub_id": "HUB_02",
+        "hub_name": "Bưu cục Dịch Vọng - Xuân Thủy",
+        "address": "Số 144 Xuân Thủy, Dịch Vọng Hậu, Cầu Giấy",
+        "zone_id": "ZONE_TRUNG",
+        "capacity": 650
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7835,
+          21.0365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "hub_id": "HUB_03",
+        "hub_name": "Bưu cục Trung Hòa - Trần Duy Hưng",
+        "address": "Số 88 Trần Duy Hưng, Trung Hòa, Cầu Giấy",
+        "zone_id": "ZONE_NAM",
+        "capacity": 600
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7985,
+          21.0125
+        ]
+      }
+    }
+  ]
+}

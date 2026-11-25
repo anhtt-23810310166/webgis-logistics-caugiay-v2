@@ -1,0 +1,611 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "order_id": "ORD_2026_001",
+        "customer_name": "Đỗ Hoàng Long",
+        "address": "Số 117 Nguyễn Khang, Cầu Giấy, Hà Nội",
+        "cod_amount": 195000.0,
+        "status": "Chờ phân tuyến",
+        "created_at": "2026-11-23 08:12:00",
+        "assigned_hub_id": "HUB_03",
+        "assigned_shipper_id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.796521,
+          21.015669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order_id": "ORD_2026_002",
+        "customer_name": "Trần Văn Bình",
+        "address": "Số 97 Trung Kính, Cầu Giấy, Hà Nội",
+        "cod_amount": 480000.0,
+        "status": "Chờ phân tuyến",
+        "created_at": "2026-11-23 08:24:00",
+        "assigned_hub_id": "HUB_02",
+        "assigned_shipper_id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.792949,
+          21.037025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order_id": "ORD_2026_003",
+        "customer_name": "Vũ Hải Yến",
+        "address": "Số 122 Nguyễn Khang, Cầu Giấy, Hà Nội",
+        "cod_amount": 195000.0,
+        "status": "Chờ phân tuyến",
+        "created_at": "2026-11-23 08:36:00",
+        "assigned_hub_id": "HUB_02",
+        "assigned_shipper_id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.78061,
+          21.027953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order_id": "ORD_2026_004",
+        "customer_name": "Phạm Minh Châu",
+        "address": "Số 26 Hoàng Đạo Thúy, Cầu Giấy, Hà Nội",
+        "cod_amount": 195000.0,
+        "status": "Chờ phân tuyến",
+        "created_at": "2026-11-23 08:48:00",
+        "assigned_hub_id": "HUB_02",
+        "assigned_shipper_id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.796757,
+          21.040816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order_id": "ORD_2026_005",
+        "customer_name": "Đặng Thu Trang",
+        "address": "Số 171 Trần Quốc Hoàn, Cầu Giấy, Hà Nội",
+        "cod_amount": 480000.0,
+        "status": "Chờ phân tuyến",
+        "created_at": "2026-11-23 09:00:00",
+        "assigned_hub_id": "HUB_03",
+        "assigned_shipper_id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.784831,
+          21.011714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order_id": "ORD_2026_006",
+        "customer_name": "Hoàng Ngọc Ánh",
+        "address": "Số 83 Tô Hiệu, Cầu Giấy, Hà Nội",
+        "cod_amount": 120000.0,
+        "status": "Chờ phân tuyến",
+        "created_at": "2026-11-23 09:12:00",
+        "assigned_hub_id": "HUB_01",
+        "assigned_shipper_id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.787479,
+          21.045272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order_id": "ORD_2026_007",
+        "customer_name": "Vũ Hải Yến",
+        "address": "Số 229 Chùa Hà, Cầu Giấy, Hà Nội",
+        "cod_amount": 340000.0,
+        "status": "Chờ phân tuyến",
+        "created_at": "2026-11-23 09:24:00",
+        "assigned_hub_id": "HUB_02",
+        "assigned_shipper_id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.780659,
+          21.032016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order_id": "ORD_2026_008",
+        "customer_name": "Lê Thu Hà",
+        "address": "Số 270 Thành Thái, Cầu Giấy, Hà Nội",
+        "cod_amount": 85000.0,
+        "status": "Chờ phân tuyến",
+        "created_at": "2026-11-23 09:36:00",
+        "assigned_hub_id": "HUB_03",
+        "assigned_shipper_id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.784784,
+          21.017992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order_id": "ORD_2026_009",
+        "customer_name": "Lê Thu Hà",
+        "address": "Số 91 Hoàng Đạo Thúy, Cầu Giấy, Hà Nội",
+        "cod_amount": 480000.0,
+        "status": "Chờ phân tuyến",
+        "created_at": "2026-11-23 09:48:00",
+        "assigned_hub_id": "HUB_01",
+        "assigned_shipper_id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.794406,
+          21.044305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order_id": "ORD_2026_010",
+        "customer_name": "Bùi Thị Mai",
+        "address": "Số 249 Trung Kính, Cầu Giấy, Hà Nội",
+        "cod_amount": 195000.0,
+        "status": "Chờ phân tuyến",
+        "created_at": "2026-11-23 10:00:00",
+        "assigned_hub_id": "HUB_03",
+        "assigned_shipper_id": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.785398,
+          21.011605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order_id": "ORD_2026_011",
+        "customer_name": "Nguyễn Thị Lan",
+        "address": "Số 68 Nguyễn Khang, Cầu Giấy, Hà Nội",
+        "cod_amount": 340000.0,
+        "status": "Đã gán tài xế",
+        "created_at": "2026-11-23 10:12:00",
+        "assigned_hub_id": "HUB_01",
+        "assigned_shipper_id": "SHP_006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.800219,
+          21.044292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order_id": "ORD_2026_012",
+        "customer_name": "Đỗ Hoàng Long",
+        "address": "Số 67 Tô Hiệu, Cầu Giấy, Hà Nội",
+        "cod_amount": 250000.0,
+        "status": "Đã gán tài xế",
+        "created_at": "2026-11-23 10:24:00",
+        "assigned_hub_id": "HUB_02",
+        "assigned_shipper_id": "SHP_009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.794274,
+          21.040513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order_id": "ORD_2026_013",
+        "customer_name": "Vũ Hải Yến",
+        "address": "Số 266 Hoàng Đạo Thúy, Cầu Giấy, Hà Nội",
+        "cod_amount": 120000.0,
+        "status": "Đã gán tài xế",
+        "created_at": "2026-11-23 10:36:00",
+        "assigned_hub_id": "HUB_03",
+        "assigned_shipper_id": "SHP_012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.77827,
+          21.009133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order_id": "ORD_2026_014",
+        "customer_name": "Vũ Hải Yến",
+        "address": "Số 269 Vũ Phạm Hàm, Cầu Giấy, Hà Nội",
+        "cod_amount": 120000.0,
+        "status": "Đã gán tài xế",
+        "created_at": "2026-11-23 10:48:00",
+        "assigned_hub_id": "HUB_03",
+        "assigned_shipper_id": "SHP_015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.787707,
+          21.013363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order_id": "ORD_2026_015",
+        "customer_name": "Ngô Văn Toàn",
+        "address": "Số 10 Vũ Phạm Hàm, Cầu Giấy, Hà Nội",
+        "cod_amount": 195000.0,
+        "status": "Đã gán tài xế",
+        "created_at": "2026-11-23 11:00:00",
+        "assigned_hub_id": "HUB_02",
+        "assigned_shipper_id": "SHP_003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.778127,
+          21.040263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order_id": "ORD_2026_016",
+        "customer_name": "Đỗ Hoàng Long",
+        "address": "Số 167 Trần Quốc Hoàn, Cầu Giấy, Hà Nội",
+        "cod_amount": 85000.0,
+        "status": "Đã gán tài xế",
+        "created_at": "2026-11-23 11:12:00",
+        "assigned_hub_id": "HUB_03",
+        "assigned_shipper_id": "SHP_006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.787192,
+          21.013587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order_id": "ORD_2026_017",
+        "customer_name": "Trần Văn Bình",
+        "address": "Số 53 Trần Duy Hưng, Cầu Giấy, Hà Nội",
+        "cod_amount": 250000.0,
+        "status": "Đã gán tài xế",
+        "created_at": "2026-11-23 11:24:00",
+        "assigned_hub_id": "HUB_02",
+        "assigned_shipper_id": "SHP_009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.780504,
+          21.032262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order_id": "ORD_2026_018",
+        "customer_name": "Ngô Văn Toàn",
+        "address": "Số 74 Hoàng Quốc Việt, Cầu Giấy, Hà Nội",
+        "cod_amount": 480000.0,
+        "status": "Đã gán tài xế",
+        "created_at": "2026-11-23 11:36:00",
+        "assigned_hub_id": "HUB_01",
+        "assigned_shipper_id": "SHP_012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.796033,
+          21.049097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order_id": "ORD_2026_019",
+        "customer_name": "Vũ Hải Yến",
+        "address": "Số 280 Nguyễn Chánh, Cầu Giấy, Hà Nội",
+        "cod_amount": 340000.0,
+        "status": "Đã gán tài xế",
+        "created_at": "2026-11-23 11:48:00",
+        "assigned_hub_id": "HUB_02",
+        "assigned_shipper_id": "SHP_015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.786833,
+          21.031542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order_id": "ORD_2026_020",
+        "customer_name": "Ngô Văn Toàn",
+        "address": "Số 112 Trần Duy Hưng, Cầu Giấy, Hà Nội",
+        "cod_amount": 195000.0,
+        "status": "Đã gán tài xế",
+        "created_at": "2026-11-23 12:00:00",
+        "assigned_hub_id": "HUB_03",
+        "assigned_shipper_id": "SHP_003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.785425,
+          21.017684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order_id": "ORD_2026_021",
+        "customer_name": "Đỗ Hoàng Long",
+        "address": "Số 234 Chùa Hà, Cầu Giấy, Hà Nội",
+        "cod_amount": 340000.0,
+        "status": "Đã gán tài xế",
+        "created_at": "2026-11-23 12:12:00",
+        "assigned_hub_id": "HUB_02",
+        "assigned_shipper_id": "SHP_006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.784773,
+          21.036539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order_id": "ORD_2026_022",
+        "customer_name": "Trần Văn Bình",
+        "address": "Số 183 Xuân Thủy, Cầu Giấy, Hà Nội",
+        "cod_amount": 340000.0,
+        "status": "Đã gán tài xế",
+        "created_at": "2026-11-23 12:24:00",
+        "assigned_hub_id": "HUB_03",
+        "assigned_shipper_id": "SHP_009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.78619,
+          21.019164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order_id": "ORD_2026_023",
+        "customer_name": "Nguyễn Thị Lan",
+        "address": "Số 46 Trần Duy Hưng, Cầu Giấy, Hà Nội",
+        "cod_amount": 480000.0,
+        "status": "Hoàn tất",
+        "created_at": "2026-11-23 12:36:00",
+        "assigned_hub_id": "HUB_02",
+        "assigned_shipper_id": "SHP_009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.788956,
+          21.033126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order_id": "ORD_2026_024",
+        "customer_name": "Nguyễn Thị Lan",
+        "address": "Số 179 Cầu Giấy, Cầu Giấy, Hà Nội",
+        "cod_amount": 340000.0,
+        "status": "Hoàn tất",
+        "created_at": "2026-11-23 12:48:00",
+        "assigned_hub_id": "HUB_03",
+        "assigned_shipper_id": "SHP_010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.77559,
+          21.011763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order_id": "ORD_2026_025",
+        "customer_name": "Phạm Minh Châu",
+        "address": "Số 77 Trần Duy Hưng, Cầu Giấy, Hà Nội",
+        "cod_amount": 340000.0,
+        "status": "Hoàn tất",
+        "created_at": "2026-11-23 13:00:00",
+        "assigned_hub_id": "HUB_02",
+        "assigned_shipper_id": "SHP_011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.780426,
+          21.036428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order_id": "ORD_2026_026",
+        "customer_name": "Hoàng Ngọc Ánh",
+        "address": "Số 218 Trần Quốc Hoàn, Cầu Giấy, Hà Nội",
+        "cod_amount": 85000.0,
+        "status": "Hoàn tất",
+        "created_at": "2026-11-23 13:12:00",
+        "assigned_hub_id": "HUB_03",
+        "assigned_shipper_id": "SHP_012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.789558,
+          21.018963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order_id": "ORD_2026_027",
+        "customer_name": "Bùi Thị Mai",
+        "address": "Số 220 Thành Thái, Cầu Giấy, Hà Nội",
+        "cod_amount": 620000.0,
+        "status": "Hoàn tất",
+        "created_at": "2026-11-23 13:24:00",
+        "assigned_hub_id": "HUB_02",
+        "assigned_shipper_id": "SHP_013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.776617,
+          21.026673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order_id": "ORD_2026_028",
+        "customer_name": "Trần Văn Bình",
+        "address": "Số 41 Duy Tân, Cầu Giấy, Hà Nội",
+        "cod_amount": 480000.0,
+        "status": "Hoàn tất",
+        "created_at": "2026-11-23 13:36:00",
+        "assigned_hub_id": "HUB_02",
+        "assigned_shipper_id": "SHP_014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.793685,
+          21.036608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order_id": "ORD_2026_029",
+        "customer_name": "Phạm Minh Châu",
+        "address": "Số 108 Trần Quốc Hoàn, Cầu Giấy, Hà Nội",
+        "cod_amount": 340000.0,
+        "status": "Hoàn tất",
+        "created_at": "2026-11-23 13:48:00",
+        "assigned_hub_id": "HUB_01",
+        "assigned_shipper_id": "SHP_015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.783161,
+          21.044329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "order_id": "ORD_2026_030",
+        "customer_name": "Vũ Hải Yến",
+        "address": "Số 246 Trần Quốc Hoàn, Cầu Giấy, Hà Nội",
+        "cod_amount": 620000.0,
+        "status": "Hoàn tất",
+        "created_at": "2026-11-23 14:00:00",
+        "assigned_hub_id": "HUB_02",
+        "assigned_shipper_id": "SHP_001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.786113,
+          21.026297
+        ]
+      }
+    }
+  ]
+}
